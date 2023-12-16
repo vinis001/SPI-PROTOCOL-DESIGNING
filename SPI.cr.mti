@@ -1,0 +1,60 @@
+C:/Users/Dell/Desktop/MAVEN/codes_SPI/wb_master.v {1 {vlog -work work -stats=none C:/Users/Dell/Desktop/MAVEN/codes_SPI/wb_master.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module wishbone_master
+
+Top level modules:
+	wishbone_master
+
+} {} {}} C:/Users/Dell/Desktop/MAVEN/codes_SPI/spi_topmodule.v {1 {vlog -work work -stats=none C:/Users/Dell/Desktop/MAVEN/codes_SPI/spi_topmodule.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module spi_top
+
+Top level modules:
+	spi_top
+
+} {} {}} C:/Users/Dell/Desktop/MAVEN/codes_SPI/SPI_shiftreg_tb.v {1 {vlog -work work -stats=none C:/Users/Dell/Desktop/MAVEN/codes_SPI/SPI_shiftreg_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module spi_shiftreg_tb
+
+Top level modules:
+	spi_shiftreg_tb
+
+} {} {}} C:/Users/Dell/Desktop/MAVEN/codes_SPI/clk_gen_tb.v {1 {vlog -work work -stats=none C:/Users/Dell/Desktop/MAVEN/codes_SPI/clk_gen_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module clk_gen_tb
+
+Top level modules:
+	clk_gen_tb
+
+} {} {}} C:/Users/Dell/Desktop/MAVEN/codes_SPI/clk_gen_rtl.v {1 {vlog -work work -stats=none C:/Users/Dell/Desktop/MAVEN/codes_SPI/clk_gen_rtl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module spi_clgen
+
+Top level modules:
+	spi_clgen
+
+} {} {}} C:/Users/Dell/Desktop/MAVEN/codes_SPI/spi_defines.v {1 {vlog -work work -stats=none C:/Users/Dell/Desktop/MAVEN/codes_SPI/spi_defines.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+} {} {}} C:/Users/Dell/Desktop/MAVEN/codes_SPI/spi_slave.v {1 {vlog -work work -stats=none C:/Users/Dell/Desktop/MAVEN/codes_SPI/spi_slave.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module spi_slave
+
+Top level modules:
+	spi_slave
+
+} {} {}} C:/Users/Dell/Desktop/MAVEN/codes_SPI/SPI_shift_reg.v {1 {vlog -work work -stats=none C:/Users/Dell/Desktop/MAVEN/codes_SPI/SPI_shift_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module spi_shift_reg
+
+Top level modules:
+	spi_shift_reg
+
+} {} {}} C:/Users/Dell/Desktop/MAVEN/codes_SPI/overall_tb.v {1 {vlog -work work -stats=none {C:\Users\Dell\Desktop\MAVEN\codes_SPI\overall_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}
